@@ -97,4 +97,4 @@ class Sensor{
             ctx.stroke();
         }
     }        
-} 
+}
